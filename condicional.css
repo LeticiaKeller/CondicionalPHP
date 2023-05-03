@@ -1,0 +1,34 @@
+*{
+    background-color: papayawhip;
+}
+.container1{
+    display: flexbox;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+}
+
+h2{ 
+    align-items: center;
+    text-align: center;
+    
+}
+
+p {
+    align-items: center;
+    text-align: center;
+}
+
+.container2{
+    display: flexbox;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background-color: papayawhip;
+    text-align: center; 
+}
